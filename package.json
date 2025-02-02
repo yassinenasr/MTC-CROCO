@@ -1,0 +1,26 @@
+{
+  "name": "mtc-croco",
+  "version": "1.0.0",
+  "description": "Business Logic Using Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yassinenasr/MTC-CROCO.git"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "business",
+    "logic"
+  ],
+  "author": "Yassine Nasr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yassinenasr/MTC-CROCO/issues"
+  },
+  "homepage": "https://github.com/yassinenasr/MTC-CROCO#readme"
+}

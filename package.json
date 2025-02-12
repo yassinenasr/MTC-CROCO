@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/yassinenasr/MTC-CROCO/issues"
   },
-  "homepage": "https://github.com/yassinenasr/MTC-CROCO#readme"
+  "homepage": "https://github.com/yassinenasr/MTC-CROCO#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
